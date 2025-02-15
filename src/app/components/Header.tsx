@@ -29,7 +29,7 @@ const Header = () => {
             <ul className="flex space-x-6">
               <li>
                 <Link
-                  href="/pages/produtos"
+                  href="/produtos"
                   className="text-white hover:text-sky-200 transition duration-300 font-medium"
                 >
                   Área do Cliente
